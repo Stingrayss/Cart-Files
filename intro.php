@@ -7,7 +7,7 @@
 
 <body>
 
-    <h1>Cade's second PHP page</h1>
+    <h1>Cade's Second PHP page</h1>
 
     <?php
 $txt = "Hello world!";
