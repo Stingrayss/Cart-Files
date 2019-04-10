@@ -1,0 +1,3 @@
+[submodule "Cart"]
+	path = Cart
+	url = https://github.com/CartWebApp/php-1-Stingrayss.git
